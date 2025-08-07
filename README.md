@@ -5,7 +5,7 @@
 
 Um aplicativo móvel simples e intuitivo para gerenciar suas tarefas diárias, construído com **Flutter**. Este projeto demonstra as funcionalidades básicas de um gerenciador de tarefas, permitindo que os usuários adicionem, marquem como concluídas e deletem tarefas de forma fácil e rápida.
 
----  
+---   
 
 ## ✨ Funcionalidades
 
